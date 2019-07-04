@@ -1,4 +1,7 @@
-main()
-{
-	beep()
-}
+//日付 (YYYY/MM/DD) 時刻 HH:MM:SS
+ 
+$item[0] = year + "/" + month + "/" + day + "\n";
+ 
+insert $item[0];
+ 
+endmacro;
