@@ -1,6 +1,6 @@
 //日付 (YYYY/MM/DD) 時刻 HH:MM:SS
  
-$item[0] = year + "/" + month + "/" + day + "\n";
+$item[0] = year + "/" + month + "/" + day ;
  
 insert $item[0];
  
