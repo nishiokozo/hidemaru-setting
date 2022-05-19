@@ -1,0 +1,7 @@
+//日付 (YYYY/MM/DD) 時刻 HH:MM:SS
+ 
+$item[0] =" " + hour + ":" + minute + ":" + second ;
+ 
+insert $item[0];
+ 
+endmacro;
